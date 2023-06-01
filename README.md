@@ -3,9 +3,10 @@
 
 <h3 align="left">💻 Currently working on...</h3>
 <ul>
-  <li><a href="https://eternal-illusion-151.netlify.app/">Eternal Illusion 151</a> - A website for a cartoonist and writer</li>
+<li><a href="https://eternal-illusion-151.netlify.app/" target="_blank">Eternal Illusion 151</a> - A website for a cartoonist and writer</li>
 
-  <li><a href="https://veterinaria-mi-mascota.netlify.app/">Veterinary My Pet</a> - The project for Full Stack course approval</li>
+<li><a href="https://veterinaria-mi-mascota.netlify.app/" target="_blank">Veterinary My Pet</a> - The project for Full Stack course approval</li>
+
 </ul>
 
 <h3 align="left">🌱 I'm learning...</h3>
