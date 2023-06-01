@@ -3,9 +3,9 @@
 
 <h3 align="left">💻 Currently working on...</h3>
 <ul>
-  <li><a href="#">Coming Soon</a> - A website for a cartoonist and writer</li>
-  <li><a href="#">Coming Soon</a> - A website for a restaurant invented by me</li>
-  <li><a href="#">Coming Soon</a> - The final team project for Full Stack course approval</li>
+  <li><a href="https://eternal-illusion-151.netlify.app/">Eternal Illusion 151</a> - A website for a cartoonist and writer</li>
+
+  <li><a href="https://veterinaria-mi-mascota.netlify.app/">Veterinary My Pet</a> - The project for Full Stack course approval</li>
 </ul>
 
 <h3 align="left">🌱 I'm learning...</h3>
@@ -23,4 +23,4 @@
 </ul>
 
 <h3 align="left">📫 How to reach me:</h3>
-<p align="left">You can find my social media and email on my <a href="#">Coming Soon</a> page.</p>
+<p align="left">You can find my social media and email on my <a href="https://alex-dev.netlify.app/">AlexDev</a> page.</p>
