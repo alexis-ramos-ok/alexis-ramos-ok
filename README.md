@@ -54,7 +54,13 @@ I'm passionate about programming and technology. I enjoy working on projects tha
 
 ## 📫 How to reach me:
 
-You can find my social media and email on my [AlexDev](https://alex-dev.netlify.app/) page.
+You can find me on:
+
+- [![Website](https://img.shields.io/badge/Website-%2314354C.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://alex-dev.netlify.app/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your-facebook-profile/)
+
+Feel free to connect with me on these platforms! 😄
 
 [![GitHub followers](https://img.shields.io/github/followers/alexis-ramos-ok?label=Follow&style=social)](https://github.com/alexis-ramos-ok)
 
