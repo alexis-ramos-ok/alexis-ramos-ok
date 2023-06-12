@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Alexis, a Frontend Developer, Social Media Expert, Tutor and Team's Leader.
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=alexis-ramos-ok&color=green)
 
 I'm passionate about programming and technology. I enjoy working on projects that have a positive impact on the community and constantly improving my programming skills.
 
@@ -56,7 +56,7 @@ I'm passionate about programming and technology. I enjoy working on projects tha
 
 You can find my social media and email on my [AlexDev](https://alex-dev.netlify.app/) page.
 
-[![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/your-github-username)
+[![GitHub followers](https://img.shields.io/github/followers/alexis-ramos-ok?label=Follow&style=social)](https://github.com/alexis-ramos-ok)
 
 ---
 
