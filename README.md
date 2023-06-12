@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Alexis, a Frontend Developer, Social Media Expert, and Team's Leader.
+# 👋 Hi there! I'm Alexis, a Frontend Developer, Social Media Expert, Tutor and Team's Leader.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
@@ -45,7 +45,10 @@ I'm passionate about programming and technology. I enjoy working on projects tha
 
 ## 💬 Interested in...
 
-- Technology
+- Software Development
+- Social Media Marketing
+- Teaching
+- Animals
 - Anime
 - Martial Arts
 
