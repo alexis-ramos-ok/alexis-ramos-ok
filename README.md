@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Alexis, a Frontend Developer, Social Media Expert, Tutor and Team's Leader.
+# 👋 Hi there! I'm Alexis, a Full Stack Developer, Community Manager, Tutor and Team's Leader.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alexis-ramos-ok&color=green)
 
