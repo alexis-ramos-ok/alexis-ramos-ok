@@ -76,7 +76,7 @@ I'm passionate about programming and technology. I enjoy working on projects tha
 
 You can find me on:
 
-- [![Website](https://img.shields.io/badge/Website-%2314354C.svg?style=for-the-badge&logo=wordpress&logoColor=white)][(https://alex-dev.netlify.app/)](https://alexdev-portfolio-services.netlify.app/)
+- [![Website](https://img.shields.io/badge/Website-%2314354C.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://alex-dev.netlify.app/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-ramos-ok/)
 
 Feel free to connect with me on these platforms! 😄
