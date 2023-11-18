@@ -43,6 +43,8 @@ I'm passionate about programming and technology. I enjoy working on projects tha
 ![Ubuntu WSL](https://img.shields.io/badge/Ubuntu%20WSL-%231572B6.svg?style=for-the-badge&logo=ubuntu&logoColor=white)  
 ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)  
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white) 
+
+### Desarrollador Full Stack (cont.)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code Extensions](https://img.shields.io/badge/VS%20Code%20Extensions-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -67,6 +69,7 @@ I'm passionate about programming and technology. I enjoy working on projects tha
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
+
 
 ## 💬 Interested in...
 
