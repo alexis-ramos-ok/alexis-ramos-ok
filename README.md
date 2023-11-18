@@ -34,21 +34,31 @@ I'm passionate about programming and technology. I enjoy working on projects tha
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
 
-## 🛠️ Tools 
+## 🛠️ Tools
 
 ### Desarrollador Full Stack
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30"/>  
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30"/>  
-<img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" height="30"/>  
-<img src="https://img.shields.io/badge/Ubuntu%20WSL-%231572B6.svg?style=for-the-badge&logo=ubuntu&logoColor=white" height="30"/>  
-<img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white" height="30"/>  
-<img src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white" height="30"/> 
-
-### Desarrollador Full Stack (cont.)
-<img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/VS%20Code%20Extensions-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Ubuntu%20WSL-%231572B6.svg?style=for-the-badge&logo=ubuntu&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/GitKraken-%236E4CC5.svg?style=for-the-badge&logo=gitkraken&logoColor=white" height="30"/>
+
+### Community Manager
+<img src="https://img.shields.io/badge/Hootsuite-%23FF5200.svg?style=for-the-badge&logo=hootsuite&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" height="30"/>
+
+### UX/UI Designer
+<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="30"/>
+
+### Tutor
+<img src="https://img.shields.io/badge/Zoom-%232D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Google%20Meet-%234285F4.svg?style=for-the-badge&logo=google-meet&logoColor=white" height="30"/>
+
+### Líder de Equipo
+<img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white" height="30"/>
 
 ## 💬 Interested in...
 
