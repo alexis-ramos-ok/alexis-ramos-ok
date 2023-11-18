@@ -6,9 +6,10 @@ I'm passionate about programming and technology. I enjoy working on projects tha
 
 ## 💻 Currently working on...
 
-[![Bomberos Voluntarios BV](https://img.shields.io/badge/Bomberos%20Voluntarios%20BV-Website-blue)](https://bomberos-voluntarios-bv.netlify.app/): Trabajo Freelance de un sitio web para la comunidad de bomberos de mi ciudad.
+[![Bomberos Voluntarios BV](https://img.shields.io/badge/Bomberos%20Voluntarios%20BV-Website-blue)](https://bomberos-voluntarios-bv.netlify.app/) Freelance project for a website serving the firefighters community in my city.
 
-[![Flag Challenge App](https://img.shields.io/badge/Flag%20Challenge%20App-Project-green)](https://flag-challenge-app.netlify.app/): Proyecto Personal de un juego de acertar banderas.
+[![Flag Challenge App](https://img.shields.io/badge/Flag%20Challenge%20App-Project-green)](https://flag-challenge-app.netlify.app/) Personal project for a flag-matching game.
+
 
 ## 🌱 I'm learning...
 
