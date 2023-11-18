@@ -36,7 +36,7 @@ I'm passionate about programming and technology. I enjoy working on projects tha
 
 ## 🛠️ Tools
 
-### Desarrollador Full Stack
+### Full Stack Developer
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" height="30"/>
@@ -56,7 +56,7 @@ I'm passionate about programming and technology. I enjoy working on projects tha
 <img src="https://img.shields.io/badge/Zoom-%232D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/Google%20Meet-%234285F4.svg?style=for-the-badge&logo=google-meet&logoColor=white" height="30"/>
 
-### Líder de Equipo
+### Team Leader
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white" height="30"/>
 
@@ -64,18 +64,20 @@ I'm passionate about programming and technology. I enjoy working on projects tha
 
 - Software Development
 - Social Media Marketing
+- UX/UI Design
 - Teaching
 - Animals
 - Anime
 - Martial Arts
+- Piano
+- Chess
 
 ## 📫 How to reach me:
 
 You can find me on:
 
-- [![Website](https://img.shields.io/badge/Website-%2314354C.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://alex-dev.netlify.app/)
+- [![Website](https://img.shields.io/badge/Website-%2314354C.svg?style=for-the-badge&logo=wordpress&logoColor=white)][(https://alex-dev.netlify.app/)](https://alexdev-portfolio-services.netlify.app/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-ramos-ok/)
-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alexdev101/)
 
 Feel free to connect with me on these platforms! 😄
 
