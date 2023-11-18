@@ -10,7 +10,6 @@ I'm passionate about programming and technology. I enjoy working on projects tha
 
 [![Flag Challenge App](https://img.shields.io/badge/Flag%20Challenge%20App-Project-green)](https://flag-challenge-app.netlify.app/) Personal project for a flag-matching game.
 
-
 ## 🌱 I'm learning...
 
 - Advanced JavaScript
@@ -44,31 +43,30 @@ I'm passionate about programming and technology. I enjoy working on projects tha
 ![Ubuntu WSL](https://img.shields.io/badge/Ubuntu%20WSL-%231572B6.svg?style=for-the-badge&logo=ubuntu&logoColor=white)  
 ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)  
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white) 
-- **Postman**: ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-- **Docker**: ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-- **Visual Studio Code Extensions**: ![VS Code Extensions](https://img.shields.io/badge/VS%20Code%20Extensions-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- **GitKraken**: ![GitKraken](https://img.shields.io/badge/GitKraken-%236E4CC5.svg?style=for-the-badge&logo=gitkraken&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code Extensions](https://img.shields.io/badge/VS%20Code%20Extensions-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-%236E4CC5.svg?style=for-the-badge&logo=gitkraken&logoColor=white)
 
 ### Community Manager
-- **Buffer**: ![Buffer](https://img.shields.io/badge/Buffer-%23758BF4.svg?style=for-the-badge&logo=buffer&logoColor=white)
-- **Hootsuite**: ![Hootsuite](https://img.shields.io/badge/Hootsuite-%23FF5200.svg?style=for-the-badge&logo=hootsuite&logoColor=white)
-- **Canva**: ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+![Buffer](https://img.shields.io/badge/Buffer-%23758BF4.svg?style=for-the-badge&logo=buffer&logoColor=white)
+![Hootsuite](https://img.shields.io/badge/Hootsuite-%23FF5200.svg?style=for-the-badge&logo=hootsuite&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 ### UX/UI Designer
-- **Figma**: ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-- **Adobe Creative Cloud**: ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-- **Sketch**: ![Sketch](https://img.shields.io/badge/Sketch-%23F7B500.svg?style=for-the-badge&logo=sketch&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-%23F7B500.svg?style=for-the-badge&logo=sketch&logoColor=white)
 
 ### Tutor
-- **Zoom**: ![Zoom](https://img.shields.io/badge/Zoom-%232D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white)
-- **Google Meet**: ![Google Meet](https://img.shields.io/badge/Google%20Meet-%234285F4.svg?style=for-the-badge&logo=google-meet&logoColor=white)
-- **Miro**: ![Miro](https://img.shields.io/badge/Miro-%23005CDE.svg?style=for-the-badge&logo=miro&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-%232D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white)
+![Google Meet](https://img.shields.io/badge/Google%20Meet-%234285F4.svg?style=for-the-badge&logo=google-meet&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-%23005CDE.svg?style=for-the-badge&logo=miro&logoColor=white)
 
 ### Líder de Equipo
-- **Jira**: ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-- **Trello**: ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
-- **Slack**: ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
-
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
 
 ## 💬 Interested in...
 
