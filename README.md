@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Alexis, a Full Stack Developer, Community Manager, UX/UI Designer, Tutor and Team's Leader.
+# 👋 Hi there! I'm Alexis, a Full Stack Engineer, UX/UI Designer, Tutor and Team's Leader.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alexis-ramos-ok&color=green)
 
