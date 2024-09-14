@@ -6,9 +6,9 @@ I'm passionate about programming and technology. I enjoy working on projects tha
 
 ## 💻 Currently working on...
 
-[![DevLife Platform](https://img.shields.io/badge/DevLife%20BV-Website-blue)](https://devlife-run.netlify.app/)) My E-Learning Platform
+[![DevLife Platform](https://img.shields.io/badge/DevLife%20BV-Website-blue)](https://devlife-run.netlify.app/) My E-Learning Platform
 
-[![Angela's Adventures](https://img.shields.io/badge/Ángela's%20Adventures%20App-Project-green)] Academic Video Game Project
+[![Angela's Adventures](https://img.shields.io/badge/Ángela's%20Adventures%20App-Project-green) Academic Video Game Project
 
 ## 🌱 I'm learning...
 
