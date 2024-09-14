@@ -6,16 +6,13 @@ I'm passionate about programming and technology. I enjoy working on projects tha
 
 ## 💻 Currently working on...
 
-[![Bomberos Voluntarios BV](https://img.shields.io/badge/Bomberos%20Voluntarios%20BV-Website-blue)](https://bomberos-voluntarios-bv.netlify.app/) Freelance project for a website serving the firefighters community in my city.
+[![DevLife Platform](https://img.shields.io/badge/DevLife%20BV-Website-blue)](https://bomberos-voluntarios-bv.netlify.app/](https://devlife-run.netlify.app/)) My E-Learning Platform
 
-[![Flag Challenge App](https://img.shields.io/badge/Flag%20Challenge%20App-Project-green)](https://flag-challenge-app.netlify.app/) Personal project for a flag-matching game.
+[![Angela's Adventures](https://img.shields.io/badge/Ángela's%20Adventures%20App-Project-green)] Academic Video Game Project
 
 ## 🌱 I'm learning...
 
-- Advanced JavaScript
-- Backend Dev
 - .NET
-- UX Design
 - React Native
 - Meta Spark
 - Unity
