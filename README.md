@@ -60,8 +60,8 @@ I'm passionate about programming and technology. I enjoy working on projects tha
 ## 💬 Interested in...
 
 - Software Development
-- Social Media Marketing
 - UX/UI Design
+- Video Game Development
 - Teaching
 - Animals
 - Anime
